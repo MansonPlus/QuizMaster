@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question 4
   m_EditorClassIdentifier: 
   question: Who directed the 1982 sci-fi classic Blade Runner?
+  answers:
+  - Steven Spielberg
+  - James Cameron
+  - George Lucas
+  - Ridley Scott
+  correctAnswerIndex: 3

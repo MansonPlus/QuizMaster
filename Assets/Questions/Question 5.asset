@@ -14,3 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   question: Which actor plays the Mandalorian in the Star Wars TV series of the same
     name?
+  answers:
+  - Oscar Isaac
+  - Ewan McGregor
+  - Diego Luna
+  - Pedro Pascal
+  correctAnswerIndex: 3

@@ -14,3 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   question: What is the name of the desert planet where much of Dune (2021) takes
     place?
+  answers:
+  - Tatooine
+  - Krypton
+  - Vulcan
+  - 'Arrakis '
+  correctAnswerIndex: 3

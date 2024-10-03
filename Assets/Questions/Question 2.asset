@@ -14,3 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   question: Which Netflix sci-fi series is set in the 1980s and follows a group of
     kids fighting supernatural creatures?
+  answers:
+  - The Umbrella Academy
+  - Dark
+  - The Witcher
+  - Stranger Things
+  correctAnswerIndex: 3
